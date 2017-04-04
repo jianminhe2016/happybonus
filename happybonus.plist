@@ -41,12 +41,12 @@
     <string>com.nisincorp.happybonus</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.2.6</string>
+    <string>1.2.8</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>happybonus</string>
+    <string>asiCommu</string>
    </dict>
   </dict>
  </array>
